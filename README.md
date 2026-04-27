@@ -1,9 +1,7 @@
-# Crystal Ball App
+# Crystal Ball App v2.0
 
-A tiny animated crystal ball web app.
-
-## Deploy
-Upload all files to GitHub and enable GitHub Pages.
-
-## iPhone
-Open in Safari -> Share -> Add to Home Screen.
+Updated pedestal design:
+- Smaller top
+- Wider base
+- 3D layered look
+- Visible version tag (v2.0)
