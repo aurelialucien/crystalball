@@ -1,2 +1,2 @@
-# Crystal Ball v3.2
-Fixed full styling, pedestal restored, icon cache bust.
+# Crystal Ball v4.0
+Ball texture update only.
