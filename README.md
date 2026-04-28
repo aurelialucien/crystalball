@@ -1,2 +1,2 @@
-# Crystal Ball App v3.0
-Cache-busted icon + noindex enabled.
+# Crystal Ball v3.1
+Fixed six hearts + icon cache bust.
