@@ -1,1 +1,0 @@
-const sparkleContainer=document.querySelector(".sparkles");for(let i=0;i<20;i++){const s=document.createElement("div");s.classList.add("sparkle");sparkleContainer.appendChild(s);}
