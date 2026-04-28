@@ -6,3 +6,9 @@ for(let i=0;i<16;i++){
  s.style.top=(Math.random()*100)+'%';
  box.appendChild(s);
 }
+
+const ball=document.getElementById('ball');
+ball.addEventListener('click',()=>{
+ ball.classList.add('flash');
+ setTimeout(()=>ball.classList.remove('flash'),350);
+});

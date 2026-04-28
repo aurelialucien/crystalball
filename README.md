@@ -1,2 +1,2 @@
-# Crystal Ball v4.0
-Ball texture update only.
+# Crystal Ball v4.1
+Heart animation restored + tap glow reaction.
