@@ -1,2 +1,2 @@
-# Crystal Ball v3.1
-Fixed six hearts + icon cache bust.
+# Crystal Ball v3.2
+Fixed full styling, pedestal restored, icon cache bust.
