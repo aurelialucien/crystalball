@@ -1,2 +1,2 @@
-# Crystal Ball v4.1
-Heart animation restored + tap glow reaction.
+# Crystal Ball v4.2
+Fix icon + add wish text.
